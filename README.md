@@ -4,7 +4,7 @@
 
 • Criar um arquivo oculto .env com as seguintes informações:
 
-'''
+```
 FLASK_ENV=production
 DEBUG=False
 
@@ -12,7 +12,7 @@ GENIUS_ACCESS_TOKEN= seu_token_de_acesso
 
 AWS_ACCESS_KEY_ID= sua_chave_id_de_acesso
 AWS_SECRET_ACCESS_KEY= sua_chave_de_acesso
-'''
+```
 
 ## Instalando dependências
 
