@@ -16,8 +16,8 @@ AWS_SECRET_ACCESS_KEY= sua_chave_de_acesso
 
 ## Instalando dependências
 
-'''pip install requirements.txt'''
+```pip install requirements.txt```
 
 ## Para consultar os dados na API
 
-Será necessário rodar o comando: '''flask run''' e acessar a url: '''http://127.0.0.1:5000/get_artist_top_songs/nome_do_artista'''
+Será necessário rodar o comando: ```flask run``` e acessar a url: ```http://127.0.0.1:5000/get_artist_top_songs/nome_do_artista```
