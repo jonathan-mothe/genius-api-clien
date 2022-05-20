@@ -16,7 +16,7 @@ AWS_SECRET_ACCESS_KEY= sua_chave_de_acesso
 
 ## Instalando dependências
 
-```pip install requirements.txt```
+```pip install -r requirements.txt```
 
 ## Para consultar os dados na API
 
